@@ -1,0 +1,25 @@
+.header.content .block-search {
+	float: left;
+}
+.header.content .minicart-wrapper {
+	float: left;
+}
+.header.content .logo {
+	float: right;
+}
+.action.primary:hover {
+    background: #00FF00 !important;
+    border: 1px solid #00FF00 !important;
+    color: #fff;
+}
+.action.primary:focus, .action.primary:active {
+    background: #00FF00 !important;
+    border: 1px solid #00FF00 !important;
+    color: #fff;
+}
+.action.primary {
+    background: #00FF00 !important;
+    border: 1px solid #00FF00 !important;
+    color: #fff;
+    border-radius: 5px;
+}
